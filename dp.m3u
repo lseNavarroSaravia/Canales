@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/DirectTV-logo.png" group-title="DEPORTE",DEPORTE | DIRECTV
+http://195.181.163.39:80/DEP_DIRECTV_PLUS/index.m3u8?token=5a63042d14a96ae8609c292c91ca0850
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | GOL ESP" tvg-logo="" group-title="DEPORTE",DEPORTE | GOL ESP
+http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8?token=2d99dd79bb9b8bd917fbee9e40f63aef
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="DEPORTE",DEPORTE | ESPN
+http://195.181.163.39:80/DEP_ESPN_ARG/index.m3u8?token=a0dde07846c2facc942ee448c17f1e19
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | FOX SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="DEPORTE",DEPORTE | FOX SPORTS
+http://195.181.163.39:80/DEP_FOX_SPORTS_ARG/index.m3u8?token=9c60593dddfd5dcb8b2b31df7a1368ff
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | AZTECA DEPORTES" tvg-logo="https://seeklogo.com/images/A/azteca-deportes-logo-6FC143EAD1-seeklogo.com.png" group-title="DEPORTE",DEPORTE | AZTECA DEPORTES
+http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8?token=e195efcfe90b4f372fdac8584c0fa7de
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | ESPN 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.419149045_Espn2.png.7bc309b12622e0289e3a009e551e9798.png" group-title="DEPORTE",DEPORTE | ESPN 2
+http://195.181.163.39:80/DEP_ESPN_2_ARG/index.m3u8?token=3fecda534aedb9e0fe4a948da7942ebf
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TNT SPORTS arg" tvg-logo="https://n9.cl/ck74u group-title="DEPORTE",DEPORTE | TNT SPORTS arg
+http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8?token=4dd7e81eb129115bbdf03c963ec11171
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | FOX SPORTS 2" tvg-logo="https://www.seekpng.com/png/detail/52-523157_fox-sports-2-logo-png-logo-fox-sports.png" group-title="DEPORTE",DEPORTE | FOX SPORTS 2
+http://195.181.163.39:80/DEP_FOX_SPORTS_2_ARG/index.m3u8?token=d02719aa1866b6a13fd20268b6fb5f5b
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | CANAL 5 mx" tvg-logo="https://www.pngkey.com/png/detail/37-374812_canal-5-mexico-logo-logo-canal-5.png" group-title="DEPORTE",DEPORTE | CANAL 5 mx
+http://195.181.163.39:80/LAT_Canal_5_HD/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0a
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV 2" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="DEPORTE",DEPORTE | DIRECTV 2
+http://195.181.163.39:80/ECU-DIRECTTV_SP2/index.m3u8?token=91954d9ef7cf78528e75725aa4f7e223
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TNT SPORTS cl" tvg-logo="https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png" group-title="DEPORTE",DEPORTE | TNT SPORTS cl
+http://195.181.163.39:80/CHI-CDF/index.m3u8?token=37241bf72dac16fb7a8bdf0cdad6f3c7
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | FOX SPORTS PREMIUM" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/401954722_FOXSportsPremium2019.png.449925ebe62b906ea607038699429c8f.png" group-title="DEPORTE",DEPORTE | FOX SPORTS PREMIUM
+http://195.181.163.39:80/DEP_FOX_SPORTS_PREM_ARG/index.m3u8?token=ee66cd6e81c7bf28ccf407de07b91e4d
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | WIN SPORTS" tvg-logo="https://assets.website-files.com/5ab51e98ef3b980e8d0a4e37/60c26e09dab877b8b93d7dec_Cliente-WSO-.png" group-title="DEPORTE",DEPORTE | WIN SPORTS
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8?token=40c40d060bac73a44076782502481e7a
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | beIN SPORTS Ñ" tvg-logo="https://thumbnail.imgbin.com/19/0/15/imgbin-bein-channels-network-bein-sports-3-sky-sports-others-fjLeqYMms1pFtytVsZSLHNCLZ_t.jpg" group-title="DEPORTE",DEPORTE | beIN SPORTS Ñ
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8?token=8ba82eb61126c016468798cff2918dea
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TyC SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tycsports.png" group-title="DEPORTE",DEPORTE | TyC SPORTS
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/42961.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | WIN SPORTS+" tvg-logo="https://www.tvguia.co/wp-content/uploads/2020/01/win-sports-mas-2020.jpg" group-title="DEPORTE",DEPORTE | WIN SPORTS+
+http://195.181.163.39:8080/DEPORTES_WINSPORTS_PLUS/index.m3u8?token=cbf7f62a04247452f0915e900a0f64be
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | STAR ACTION" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png" group-title="DEPORTE",DEPORTE | STAR ACTION
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/21082.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV+" tvg-logo="https://www.directv.com.pe/img/directv-logo-fb-150x150.jpg" group-title="DEPORTE",DEPORTE | DIRECTV+
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/53705.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TUDN" tvg-logo="https://www.soyfutbol.com/__export/1592318767383/sites/debate/img/2020/06/16/tudn_logo_crop1592318755812.png_554688468.png" group-title="DEPORTE",DEPORTE | TUDN
+http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/58695.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | F1" tvg-logo="https://image.flaticon.com/icons/png/512/2418/2418779.png" group-title="DEPORTE",DEPORTE | F1
+http://livepulse2.uk:8080/cNThhnxRUm/GA5TzFb2Gh/272438
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | GOL PERU" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTE",DEPORTE | GOL PERU
+http://195.181.163.39:80/DEP_GOL_TV/index.m3u8?token=913db64b59e91be1c950aed326a45de7
